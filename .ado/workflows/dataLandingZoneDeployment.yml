@@ -20,7 +20,7 @@ pr:
       - .ado/workflows/dataLandingZoneDeployment.yml
 
 variables:
-  AZURE_RESOURCE_MANAGER_CONNECTION_NAME: "data-landing-zone-001-service-connection" # Update to '{resourceManagerConnectionName}'
+  AZURE_RESOURCE_MANAGER_CONNECTION_NAME: "data-landing-zone-service-connection" # Update to '{resourceManagerConnectionName}'
   AZURE_SUBSCRIPTION_ID: "89c79b7f-f104-46c7-8a0a-2a9021ca1a16"                      # Update to '{dataLandingZoneSubscriptionId}'
   AZURE_LOCATION: "uksouth"                                                          # Update to '{regionName}'
 
