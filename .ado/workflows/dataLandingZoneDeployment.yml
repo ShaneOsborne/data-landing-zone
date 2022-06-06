@@ -21,8 +21,8 @@ pr:
 
 variables:
   AZURE_RESOURCE_MANAGER_CONNECTION_NAME: "data-landing-zone-001-service-connection" # Update to '{resourceManagerConnectionName}'
-  AZURE_SUBSCRIPTION_ID: "2150d511-458f-43b9-8691-6819ba2e6c7b"                      # Update to '{dataLandingZoneSubscriptionId}'
-  AZURE_LOCATION: "northeurope"                                                      # Update to '{regionName}'
+  AZURE_SUBSCRIPTION_ID: "89c79b7f-f104-46c7-8a0a-2a9021ca1a16"                      # Update to '{dataLandingZoneSubscriptionId}'
+  AZURE_LOCATION: "uksouth"                                                          # Update to '{regionName}'
 
 stages:
   - stage: Validation
