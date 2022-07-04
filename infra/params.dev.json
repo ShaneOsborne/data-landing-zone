@@ -48,7 +48,7 @@
             "value": "10.1.9.0/24"
         },
         "dataManagementZoneVnetId": {
-            "value": "/subscriptions/89c79b7f-f104-46c7-8a0a-2a9021ca1a16/resourceGroups/dmz-dev-network/providers/Microsoft.Network/virtualNetworks/dmz-dev-vnet"
+            "value": "/subscriptions/89c79b7f-f104-46c7-8a0a-2a9021ca1a16/resourceGroups/ssodmz-dev-network/providers/Microsoft.Network/virtualNetworks/ssodmz-dev-vnet"
         },
         "firewallPrivateIp": {
             "value": "10.0.0.4"
